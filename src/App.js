@@ -16,13 +16,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bill Is Learning React and Continuous Deployment Using AWS Amplify! 
+          Bill Is Learning React and Continuous Deployment Using AWS Amplify! <br />
+          Amy smelz haha!
         </a>
-      </header>
-      <div>
-      <p>
+        <p>
         <a href="https://www.youtube.com/watch?v=ZVUyyHYkBHk">Da Best</a>
       </p>
+      </header>
+      <div>
+      
     </div>
     </div>    
   );
