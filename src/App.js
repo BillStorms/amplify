@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bill Is Learning React and Continuous Deployment Using AWS Amplify! 
+          Bill Is Learning React and Continuous Deployment Using AWS Amplify! <br/>
          
         </a>
         <a
@@ -25,7 +25,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >         
-          Amy smelz haha!
+          Also, Amy smelz haha!
         </a>
         <p>
         <a href="https://www.youtube.com/watch?v=ZVUyyHYkBHk" id="dabess">Da Best</a>
