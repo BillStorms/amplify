@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Learning new code stuff is the dopest.
         </p>
         <a
           className="App-link"
@@ -19,7 +19,12 @@ function App() {
           Bill Is Learning React and Continuous Deployment Using AWS Amplify! 
         </a>
       </header>
+      <div>
+      <p>
+        <a href="https://www.youtube.com/watch?v=ZVUyyHYkBHk">Da Best</a>
+      </p>
     </div>
+    </div>    
   );
 }
 
